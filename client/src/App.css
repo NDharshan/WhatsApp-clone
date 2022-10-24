@@ -1,0 +1,15 @@
+.list-group-item.active {
+    background-color: #f7a100;
+    border-color: #f7a100;
+}
+
+.btn:hover {
+    background-color: #f2d297;
+    border-color: #f2d297;
+}
+
+.nav-link, .nav-link:hover, .nav-link:focus {
+    color: #f76700;
+  }
+
+
